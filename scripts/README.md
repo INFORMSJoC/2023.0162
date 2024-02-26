@@ -1,7 +1,6 @@
 # Running the code
 
-The code can be run by executing the files "exe.py" (for our proposed method) or "exe_newton.py" (for comparison with different methods)
-in the "scripts" directory.
+The code can be run by executing the files "exe.py" (for our proposed method) or "exe_newton.py" (for comparison with different methods).
 
 
 ## Data preparation
@@ -17,7 +16,7 @@ problem_list = [ simpllpb, extrasim, hs006, maratos, tame ]
 
 The user can use the "exe.py" (or "exe_newton.py") file to define several parameters for the experiments.
 
-**debug_init**: This defines if summary of each branch-and-bound iteration should be printed to the console for debugging purposes.
+**debug_init**: If true, a summary of each branch-and-bound iteration is printed to the console for debugging purposes.
 
 **tol_init**: This is a stopping tolerance for the spatial branch-and-bound method.
 
@@ -47,7 +46,7 @@ reformulated as equality constraints using slack variables. Then, the Miranda th
 Specifically for the alternative approaches based on interval Newton methods (see "exe_newton.py"), we have the following parameters.
 
 **narrow_box_init**: If true, then a local solver (either IPOPT or SLSQP) is used to compute a local solution on the current box in each iteration. Then, a narrow box is constructed around it,
-in which it is attempted to verify the existence of feasible points.
+in which it is attempted to verify the existence of feasible points. If false, then the Krawczyk operator is directly used on the existing boxes.
 
 **narrow_box_tol_init**: Can be used to define the length of the constructed narrow box.
 

@@ -1,7 +1,7 @@
 # Data for replication
 
-The files "TestProblem.py" and "TestProblem_all.txt" contains the definitions of several benchmark problems from the COCONUT Benchmark Library. 
-The Problems are implemented as objects of the OptimizationProblem class, defined in OptimizationProblem.py in the src-folder.
+The files "TestProblem.py" and "TestProblem_all.txt" contain the definitions of several benchmark problems from the COCONUT Benchmark Library. 
+The Problems are implemented as objects of the OptimizationProblem class, defined in OptimizationProblem.py in the "src" directory.
 
 For the original raw data, see the COCONUT Benchmark library, available under <https://arnold-neumaier.at/glopt/coconut/Benchmark/Benchmark.html>.
 
@@ -47,7 +47,7 @@ eq1_hs006 = 10*(x2 - x1**2)
 cons_hs006 = [{'func':eq1_hs006, 'type':'eq', 'prop':'non-convex'}]
 ```
 
-This part defines the constraint. First, we define a function in Sympy format. Then, all constraints are stored in a list in the cons object. 
+This part defines the constraints. First, we define a function in Sympy format. Then, all constraints are stored in a list in the cons object. 
 Note that type defines whether we have an equality ('eq') or an inequality ('ineq') constraint, where the latter always assume
 a <=-type of inequality. Further note that 'prop' allows to define if a constraint is convex or non-convex (or unknown).
 This is relevant for the OBBT where convexity can be exploited, but not relevant for the actual branch-and-bound method.
@@ -62,7 +62,7 @@ This line defines the required variables.
 bnds_hs006 = [np.array([-10000, 10000]), np.array([-10000, 10000])]
 ```
 
-This line defines the initial box constraints. If no variable bounds were defined in the COCONUT Benchmark library we 
+This line defines the initial box constraints. If no variable bounds were defined in the COCONUT Benchmark library, we 
 used -10000 and 10000 as the default bounds.
 
 ```
