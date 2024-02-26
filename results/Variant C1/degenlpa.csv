@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,degenlpa,3.0599804507480726,inf,,,10000,,727.0083522796631

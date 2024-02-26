@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxtime,eigminc,-1.0,inf,,,324,,7202.483670711517

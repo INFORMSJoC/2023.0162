@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,hs35mod,-25.25,inf,,,10000,,863.0235209465027

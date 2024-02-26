@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,mickey,0,0,"[array([0.75 , 1.125]), array([0.5, 1. ])]",17,17,1.8611640930175781,1.8611640930175781

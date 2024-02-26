@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,rediff3,0,0,"[array([0.25231586, 0.25232051]), array([0.34698961, 0.34699426]), array([0.2523112 , 0.25232051])]",95,95,14.870134353637695,14.870134353637695

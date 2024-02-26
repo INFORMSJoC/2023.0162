@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,hs061,-39026.598388671875,inf,,,10000,,4616.922338962555

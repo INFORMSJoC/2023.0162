@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,czaporgeddes,0,0,"[array([-0.6989    , -0.69889942]), array([0.23268453, 0.23268511]), array([0.16542933, 0.16542991])]",105,105,4.82737398147583,4.82737398147583

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,redeco6,0,0,"[array([-0.20000057, -0.1999994 ]), array([-0.20000057, -0.1999994 ]), array([-0.20000057, -0.1999994 ]), array([-0.20000057, -0.1999994 ]), array([-0.20000057, -0.1999994 ]), array([-0.04000081, -0.03999965])]",204,204,100.45868492126465,100.45868492126465

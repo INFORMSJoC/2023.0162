@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,eqlin,0,0,"[array([0.00000000e+00, 2.32853927e-06]), array([0.99999817, 1.0000005 ]), array([1.99999635, 2.000001  ])]",98,98,5.01713752746582,5.01713752746582

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,bt13,1.0842021724855044e-19,0.0005960464477539059,"[array([-0.00059611, -0.00029805]), array([-0.00070405, -0.00040601]), array([-0.00046748,  0.        ]), array([-0.00034153,  0.        ]), array([0.00029802, 0.00059605])]",3215,3215,168.07464718818665,168.07464718818665

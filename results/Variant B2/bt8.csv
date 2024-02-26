@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,bt8,-7031718.7734375,inf,,,10000,,652.6330857276917

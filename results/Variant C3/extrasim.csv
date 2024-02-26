@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,extrasim,0.9999999999999999,inf,,,10000,,151.95169615745544

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,bronstein,0,0,"[array([-1.75662324, -1.75662208]), array([4.83882917, 4.83883034]), array([3.08220593, 3.08220826])]",101,101,18.001266956329346,18.001266956329346

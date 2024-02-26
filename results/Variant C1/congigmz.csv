@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,congigmz,27.99999893305357,28.000000097323202,"[array([-4.00000026, -3.99999968]), array([-6.0000001 , -5.99999952]), array([27.99999893, 28.0000001 ])]",104,104,15.623008012771606,15.623008012771606

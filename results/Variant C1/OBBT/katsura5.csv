@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,katsura5,0,0,"[array([0.16214201, 0.16214317]), array([0.22586947, 0.22587064]), array([0.27720794, 0.27721027]), array([-0.12399006, -0.12398773]), array([0.01153093, 0.01153325]), array([0.08583694, 0.08583927])]",200,200,233.3942129611969,233.3942129611969

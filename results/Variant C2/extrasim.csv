@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,extrasim,0.9999933689832687,1.00000268407166,"[array([-6.63101673e-06,  2.68407166e-06]), array([0.99998653, 1.00000516])]",60,60,0.7188413143157959,0.7188413143157959

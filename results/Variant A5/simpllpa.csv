@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,simpllpa,0.9918212890625024,1.0490417480468774,"[array([0.00953674, 0.01907349]), array([0.99182129, 1.01089478])]",37,67,4.007936000823975,20.121306657791138

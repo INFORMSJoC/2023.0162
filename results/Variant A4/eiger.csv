@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,eiger,0,0,"[array([0., 1.]), array([-1.,  1.]), array([-1.,  1.]), array([-1.,  1.])]",1,1,11.563987493515015,11.563987493515015

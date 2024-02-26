@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,eigmaxc,-10.987426757812537,inf,,,10000,,571.3478622436523

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,parabola,0.984375,1.0546875,"[array([0.984375, 1.      ]), array([1.     , 1.03125])]",24,24,0.35909485816955566,0.35909485816955566

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,hs35mod,0.2499961852636897,0.25000000007532547,"[array([1.49999972, 1.50000205]), array([0.5       , 0.50000381]), array([0.49999937, 0.50000403])]",114,114,2.514177083969116,2.514177083969116

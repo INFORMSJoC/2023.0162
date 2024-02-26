@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,hs061,-143.64615869667793,-143.64612575157662,"[array([-2.11904059, -2.11903943]), array([3.21053639, 3.21053755]), array([5.32688635, 5.32688751])]",102,102,15.523195743560791,15.523195743560791

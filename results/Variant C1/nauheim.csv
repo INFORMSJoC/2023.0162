@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,nauheim,0,0,"[array([-0.99844791, -0.99844756]), array([-0.18060114, -0.18060078]), array([0.21960673, 0.21960745]), array([0.71517264, 0.71517335]), array([0.10576216, 0.10576287]), array([0.06430199, 0.0643027 ]), array([-0.14086155, -0.14086084]), array([-0.4941164 , -0.49411569])]",386,386,356.1171820163727,356.1171820163727

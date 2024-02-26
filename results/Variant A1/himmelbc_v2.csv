@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,himmelbc_v2,0,0,"[array([-4.,  0.]), array([0., 4.])]",2,2,0.31252217292785645,0.31252217292785645

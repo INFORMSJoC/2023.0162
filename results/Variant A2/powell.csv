@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,powell,0,0,"[array([0.00170898, 0.00244141]), array([-0.00048828,  0.        ]), array([0.        , 0.00097656]), array([0.00024414, 0.00097656])]",1264,1264,28.749755144119263,28.749755144119263

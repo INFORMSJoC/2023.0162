@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,ex3_1_2,-30667.368430924224,-29755.0103434917,"[array([81.125 , 82.6875]), array([30.5625, 31.75  ]), array([36.5  , 38.875]), array([34.625, 36.25 ]), array([30.75 , 33.125])]",4559,10000,272.6613669395447,598.5795233249664

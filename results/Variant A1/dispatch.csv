@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,dispatch,3127.6283149102783,inf,,,10000,,6274.62891960144

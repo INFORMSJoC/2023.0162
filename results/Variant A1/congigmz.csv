@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,congigmz,27.995187520980863,28.763784041271915,"[array([-3.875  , -3.21875]), array([-8.5   , -7.1875]), array([27.       , 28.2175293])]",76,10000,12.205952882766724,2274.31565117836

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,mathews,0,0,"[array([1.18045904, 1.1804609 ]), array([2.18045983, 2.18046169]), array([-0.18046198, -0.18045825])]",89,89,24.831458568572998,24.831458568572998

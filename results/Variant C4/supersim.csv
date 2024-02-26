@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,supersim,0,0,"[array([0.22094727, 1.44189453]), array([0.        , 2.44165039])]",26,26,0.07811617851257324,0.07811617851257324
