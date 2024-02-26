@@ -39,12 +39,12 @@ The goal of this software is to demonstrate the effect of our proposed feasibili
 for global optimization with continuous variables and possibly non-convex inequality and equality constraints.
 The procedure is integrated into a spatial branch-and-bound method. 
 
-The main contribution is that under certain assumptions, the proposed method is sufficient to
-guarantee convergence of the spatial branch-and-bound method.
-
 The feasibility verification method has two main ingredients: The first one is a reformulation of inequality constraints based on
 so-called approximate active index sets. The second one is the Miranda theorem based feasibility verification method for purely box- and
 equality-constrained problems that was presented in an earlier [paper](https://link.springer.com/article/10.1007/s10107-020-01493-2) by Füllner, Kirst and Stein.
+
+The main contribution is that under certain assumptions, the proposed method is sufficient to
+guarantee convergence of the spatial branch-and-bound method.
 
 For comparison, alternative feasibility verification procedures based on interval Newton methods can be used.
 
