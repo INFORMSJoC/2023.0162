@@ -79,4 +79,4 @@ It contains a README file providing more details on the structure of the problem
 ## Support
 
 For support in using this software, submit an issue via 
-[e-mail](christian.fuellner@kit.edu).
+e-mail to christian.fuellner@kit.edu.
