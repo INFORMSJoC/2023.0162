@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,zangwil3,0,0,"[array([-625.0625,    0.    ]), array([-625.0625,    0.    ]), array([  0.    , 625.0625])]",97,97,1447.0459175109863,1447.0459175109863

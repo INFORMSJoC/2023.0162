@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,kear3,0,0,"[array([-3.05175781e-05, -1.52587891e-05]), array([0.00000000e+00, 1.52587891e-05]), array([-7.62939453e-06,  3.81469727e-06]), array([-1.52587891e-05,  0.00000000e+00])]",1034,1034,110.38587427139282,110.38587427139282

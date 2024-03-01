@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxtime,ex9_1_8,-10000.0,inf,,,18,,7243.221008777618

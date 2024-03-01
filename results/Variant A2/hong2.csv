@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,hong2,0,0,"[array([0.55588913, 0.55589294]), array([0.61803055, 0.61803436]), array([0.55588531, 0.55589294])]",728,728,13.218353271484375,13.218353271484375

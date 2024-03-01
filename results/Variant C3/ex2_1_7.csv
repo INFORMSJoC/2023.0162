@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,ex2_1_7,-2.4019163118389737,inf,,,10000,,2327.5801157951355

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,maratos,-1.0682219135329951,-0.9919204785522912,"[array([0.99192047, 1.06822205]), array([-0.07630157,  0.        ])]",27,36,2.3959732055664062,2.80222749710083

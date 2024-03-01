@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,zecevic3,97.27827243506908,97.36105488240719,"[array([2.79541016, 2.79614258]), array([1.0859375 , 1.08691406])]",34,635,28.01488161087036,875.7563571929932

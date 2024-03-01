@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,kincox,0,0,"[array([0.90747166, 0.90747261]), array([0.12882996, 0.12883091]), array([0.42011261, 0.42011356]), array([-0.99166775, -0.99166679])]",88,88,17.61208701133728,17.61208701133728

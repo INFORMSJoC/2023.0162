@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,hs028,-1.1656074209996697e-07,0.11111778454910706,"[array([-39.06640625,   0.        ]), array([ 0.    , 39.0625]), array([-38.56445312,   0.5       ])]",34,10000,82.21147632598877,7122.98206949234

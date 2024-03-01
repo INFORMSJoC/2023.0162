@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxtime,bt12,-64257.46422607422,inf,,,9055,,7200.458729505539

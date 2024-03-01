@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,clo1,0,0,"[array([0.99982071, 0.9998312 ]), array([0.00016785, 0.00017834]), array([0.00016785, 0.00018883])]",62,62,8.668006896972656,8.668006896972656

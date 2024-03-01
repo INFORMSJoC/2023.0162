@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,tryb,-0.046875,0.0156275002,"[array([0.75 , 0.875]), array([10.75, 11.  ])]",17,46,1.7812426090240479,3.671844482421875

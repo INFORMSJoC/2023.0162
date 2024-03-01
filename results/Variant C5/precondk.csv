@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,precondk,0,0,"[array([0.99999998, 1.00000001]), array([-6.55651093e-08,  0.00000000e+00])]",99,99,48.0199019908905,48.0199019908905

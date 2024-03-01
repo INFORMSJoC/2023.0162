@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,aljazzaf,75.00301053131305,75.00859997184612,"[array([-6.63101673e-06,  1.19991601e-05]), array([0.99998674, 1.00000537]), array([0.99998674, 1.000024  ])]",86,86,1.3122828006744385,1.3122828006744385

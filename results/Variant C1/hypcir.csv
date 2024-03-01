@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,hypcir,0,0,"[array([1.86546707, 1.94177246]), array([0.49197006, 0.56827545])]",36,36,1.9177296161651611,1.9177296161651611

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,himmelbc,0,0,"[array([-5.00000e-01,  5.00025e+03]), array([-5.00000e-01,  5.00025e+03])]",4,4,0.09375262260437012,0.09375262260437012

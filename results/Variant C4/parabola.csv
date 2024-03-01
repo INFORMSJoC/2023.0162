@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxtime,parabola,0.9999999999999999,inf,,,1384,,7202.390416383743

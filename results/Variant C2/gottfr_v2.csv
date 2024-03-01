@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,gottfr_v2,0,0,"[array([0.00000000e+00, 9.31415707e-06]), array([0.00000000e+00, 9.31415707e-06])]",62,62,1.4087393283843994,1.4087393283843994

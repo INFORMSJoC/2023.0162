@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,dispatch,3155.2878379384183,3155.287982926195,"[array([49.99999619, 50.00000072]), array([75.4858779 , 75.48588131]), array([93.26225317, 93.26225725]), array([8.74813223, 8.74813485])]",98,98,3.624880313873291,3.6405723094940186

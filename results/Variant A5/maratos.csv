@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,maratos,-1.0000000000000004,-0.4999900071675995,"[array([0. , 0.5]), array([-1.,  0.])]",3,10000,1.7031054496765137,767.0023791790009

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,monfroy1,0,0,"[array([15.81138827, 15.81138863]), array([15.81138827, 15.81138863]), array([3.2235243 , 3.22352466]), array([50.96839948, 50.96840021])]",151,151,19.765947818756104,19.765947818756104

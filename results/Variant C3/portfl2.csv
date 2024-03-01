@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxiter,portfl2,0.02968923985330289,inf,,,10000,,6128.416166782379

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Maxtime,dual4,0.7460466838320404,inf,,,1582,,7200.580985546112

@@ -1,0 +1,2 @@
+Status,Prob.Name,lb.final,ub.final,box.final,iters.first,iters.final,time.first,time.final
+Success,booth,0,0,"[array([0.75, 1.  ]), array([3.  , 3.25])]",31,31,13.752216339111328,13.752216339111328
