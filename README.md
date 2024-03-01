@@ -6,19 +6,15 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0000) by C. Füllner, P. Kirst, H. Otto and S. Rebennack. 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
+that were used in the research reported on in the [paper](https://doi.org/10.1287/ijoc.2023.0162) by C. Füllner, P. Kirst, H. Otto and S. Rebennack. 
 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-https://doi.org/10.1287/ijoc.2019.0000
+https://doi.org/10.1287/ijoc.2023.0162
 
-https://doi.org/10.1287/ijoc.2019.0000.cd
+https://doi.org/10.1287/ijoc.2023.0162.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
@@ -26,10 +22,10 @@ Below is the BibTex for citing this snapshot of the repository.
 @article{FuellnerTest,
   author =        {C. F\"ullner and P. Kirst and H. Otto and S. Rebennack},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
+  title =         {Repository to ``Feasibility verification and upper bound computation using approximate active index sets''},
   year =          {2024},
-  doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
+  doi =           {10.1287/ijoc.2023.0162.cd},
+  url =           {https://github.com/INFORMSJoC/2023.0162},
 }  
 ```
 
@@ -82,5 +78,5 @@ It contains a README file providing more details on the structure of the problem
 
 ## Support
 
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+For support in using this software, submit an issue via 
+e-mail to christian.fuellner@kit.edu.
